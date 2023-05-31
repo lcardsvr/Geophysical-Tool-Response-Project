@@ -48,4 +48,13 @@ One of the significant benefits of the Geophysical Tool Response project is the 
 
 By empowering field personnel with reliable tools and insights, the Geophysical Tool Response project enables them to perform logging operations with enhanced confidence, efficiency, and success.
 
+## Submission
+
+1. Project information submitted and available in GitHub under https://github.com/lcardsvr/Geophysical-Tool-Response-Project
+
+2. Files available and described above.
+
+3. CSV files used for the project are Confidential and have not been uploaded to the repo due for this reason.
+
+4. Project presentation available as a PowerPoint Slide deck in the main tree of the repo.
 
